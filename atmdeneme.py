@@ -23,7 +23,7 @@ while True:
     elif islem == 2:
         yatirmak = int(input("Yatırmak istediğiniz miktarı giriniz: "))
         if yatirmak <= 0:
-            print(", sıfır veya negatif para yatmaz ki.")
+            print("Sıfır veya negatif para yatmaz kral.")
         else:
             bakiye += yatirmak
             print("Para yatırma başarılı. Yeni bakiye:", bakiye, "TL.")
