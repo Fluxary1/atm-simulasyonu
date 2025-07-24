@@ -11,12 +11,6 @@ Bu proje, Python ile temel bir ATM işlemlerini simüle etmek için hazırlanmı
 - Geçersiz işlem uyarısı.
 - Sıfır/negatif tutar yatırma engeli.
 
-## Kullanım
-
-```bash
-python atm_simulasyonu.py
-```
-
 ## Notlar
 
 Bu proje tamamen eğitim ve örnek amaçlıdır. Gerçek banka veya ATM işlemi içermez, herhangi bir veri kaydetmez.
