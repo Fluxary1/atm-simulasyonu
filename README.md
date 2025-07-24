@@ -14,4 +14,5 @@ Bu proje, Python ile temel bir ATM işlemlerini simüle etmek için hazırlanmı
 ## Notlar
 
 Bu proje tamamen eğitim ve örnek amaçlıdır. Gerçek banka veya ATM işlemi içermez, herhangi bir veri kaydetmez.
+
 Bu ve benzeri küçük projeleri hem yedek hem hatıra olarak GitHub’a ekliyorum.
